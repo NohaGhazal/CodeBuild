@@ -1,4 +1,4 @@
-#lol
+#yalahwy
 
 class HelloWorld:
   def __init__(self):
